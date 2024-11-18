@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yarpg\\source\\repos\\WindowsFormsApp_Iva\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07A09C3A-1366-42F1-9FB0-77CD4E313912}|WindowsFormsApp_Iva\\WindowsFormsApp_Iva.csproj|c:\\users\\yarpg\\source\\repos\\windowsformsapp_iva\\windowsformsapp_iva\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07A09C3A-1366-42F1-9FB0-77CD4E313912}|WindowsFormsApp_Iva\\WindowsFormsApp_Iva.csproj|solutionrelative:windowsformsapp_iva\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A09C3A-1366-42F1-9FB0-77CD4E313912}|WindowsFormsApp_Iva\\WindowsFormsApp_Iva.csproj|c:\\users\\yarpg\\source\\repos\\windowsformsapp_iva\\windowsformsapp_iva\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A09C3A-1366-42F1-9FB0-77CD4E313912}|WindowsFormsApp_Iva\\WindowsFormsApp_Iva.csproj|solutionrelative:windowsformsapp_iva\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A09C3A-1366-42F1-9FB0-77CD4E313912}|WindowsFormsApp_Iva\\WindowsFormsApp_Iva.csproj|c:\\users\\yarpg\\source\\repos\\windowsformsapp_iva\\windowsformsapp_iva\\studentstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A09C3A-1366-42F1-9FB0-77CD4E313912}|WindowsFormsApp_Iva\\WindowsFormsApp_Iva.csproj|solutionrelative:windowsformsapp_iva\\studentstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A09C3A-1366-42F1-9FB0-77CD4E313912}|WindowsFormsApp_Iva\\WindowsFormsApp_Iva.csproj|c:\\users\\yarpg\\source\\repos\\windowsformsapp_iva\\windowsformsapp_iva\\studentstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07A09C3A-1366-42F1-9FB0-77CD4E313912}|WindowsFormsApp_Iva\\WindowsFormsApp_Iva.csproj|solutionrelative:windowsformsapp_iva\\studentstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A09C3A-1366-42F1-9FB0-77CD4E313912}|WindowsFormsApp_Iva\\WindowsFormsApp_Iva.csproj|c:\\users\\yarpg\\source\\repos\\windowsformsapp_iva\\windowsformsapp_iva\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07A09C3A-1366-42F1-9FB0-77CD4E313912}|WindowsFormsApp_Iva\\WindowsFormsApp_Iva.csproj|solutionrelative:windowsformsapp_iva\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A09C3A-1366-42F1-9FB0-77CD4E313912}|WindowsFormsApp_Iva\\WindowsFormsApp_Iva.csproj|c:\\users\\yarpg\\source\\repos\\windowsformsapp_iva\\windowsformsapp_iva\\uspev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07A09C3A-1366-42F1-9FB0-77CD4E313912}|WindowsFormsApp_Iva\\WindowsFormsApp_Iva.csproj|solutionrelative:windowsformsapp_iva\\uspev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A09C3A-1366-42F1-9FB0-77CD4E313912}|WindowsFormsApp_Iva\\WindowsFormsApp_Iva.csproj|c:\\users\\yarpg\\source\\repos\\windowsformsapp_iva\\windowsformsapp_iva\\subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07A09C3A-1366-42F1-9FB0-77CD4E313912}|WindowsFormsApp_Iva\\WindowsFormsApp_Iva.csproj|solutionrelative:windowsformsapp_iva\\subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A09C3A-1366-42F1-9FB0-77CD4E313912}|WindowsFormsApp_Iva\\WindowsFormsApp_Iva.csproj|c:\\users\\yarpg\\source\\repos\\windowsformsapp_iva\\windowsformsapp_iva\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A09C3A-1366-42F1-9FB0-77CD4E313912}|WindowsFormsApp_Iva\\WindowsFormsApp_Iva.csproj|solutionrelative:windowsformsapp_iva\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\yarpg\\source\\repos\\WindowsFormsApp_Iva\\WindowsFormsApp_Iva\\Students.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp_Iva\\Students.cs",
+              "ToolTip": "C:\\Users\\yarpg\\source\\repos\\WindowsFormsApp_Iva\\WindowsFormsApp_Iva\\Students.cs",
+              "RelativeToolTip": "WindowsFormsApp_Iva\\Students.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:39:41.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsTable.cs",
+              "DocumentMoniker": "C:\\Users\\yarpg\\source\\repos\\WindowsFormsApp_Iva\\WindowsFormsApp_Iva\\StudentsTable.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp_Iva\\StudentsTable.cs",
+              "ToolTip": "C:\\Users\\yarpg\\source\\repos\\WindowsFormsApp_Iva\\WindowsFormsApp_Iva\\StudentsTable.cs",
+              "RelativeToolTip": "WindowsFormsApp_Iva\\StudentsTable.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:26:59.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentsTable.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\yarpg\\source\\repos\\WindowsFormsApp_Iva\\WindowsFormsApp_Iva\\StudentsTable.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp_Iva\\StudentsTable.cs",
+              "ToolTip": "C:\\Users\\yarpg\\source\\repos\\WindowsFormsApp_Iva\\WindowsFormsApp_Iva\\StudentsTable.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp_Iva\\StudentsTable.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:56:49.981Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Students.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\yarpg\\source\\repos\\WindowsFormsApp_Iva\\WindowsFormsApp_Iva\\Students.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp_Iva\\Students.cs",
+              "ToolTip": "C:\\Users\\yarpg\\source\\repos\\WindowsFormsApp_Iva\\WindowsFormsApp_Iva\\Students.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp_Iva\\Students.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:27:19.988Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Subjects.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\yarpg\\source\\repos\\WindowsFormsApp_Iva\\WindowsFormsApp_Iva\\Subjects.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp_Iva\\Subjects.cs",
+              "ToolTip": "C:\\Users\\yarpg\\source\\repos\\WindowsFormsApp_Iva\\WindowsFormsApp_Iva\\Subjects.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp_Iva\\Subjects.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:14:15.026Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Uspev.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\yarpg\\source\\repos\\WindowsFormsApp_Iva\\WindowsFormsApp_Iva\\Uspev.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp_Iva\\Uspev.cs",
+              "ToolTip": "C:\\Users\\yarpg\\source\\repos\\WindowsFormsApp_Iva\\WindowsFormsApp_Iva\\Uspev.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp_Iva\\Uspev.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:18:11.346Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\yarpg\\source\\repos\\WindowsFormsApp_Iva\\WindowsFormsApp_Iva\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp_Iva\\Form1.cs",
+              "ToolTip": "C:\\Users\\yarpg\\source\\repos\\WindowsFormsApp_Iva\\WindowsFormsApp_Iva\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp_Iva\\Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:25:47.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\yarpg\\source\\repos\\WindowsFormsApp_Iva\\WindowsFormsApp_Iva\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp_Iva\\Form1.cs",
+              "ToolTip": "C:\\Users\\yarpg\\source\\repos\\WindowsFormsApp_Iva\\WindowsFormsApp_Iva\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp_Iva\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:25:45.555Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

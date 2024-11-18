@@ -1,0 +1,14 @@
+C:\Users\yarpg\source\repos\WindowsFormsApp_Iva\WindowsFormsApp_Iva\bin\Debug\WindowsFormsApp_Iva.exe.config
+C:\Users\yarpg\source\repos\WindowsFormsApp_Iva\WindowsFormsApp_Iva\bin\Debug\WindowsFormsApp_Iva.exe
+C:\Users\yarpg\source\repos\WindowsFormsApp_Iva\WindowsFormsApp_Iva\bin\Debug\WindowsFormsApp_Iva.pdb
+C:\Users\yarpg\source\repos\WindowsFormsApp_Iva\WindowsFormsApp_Iva\obj\Debug\WindowsFormsApp_Iva.csproj.AssemblyReference.cache
+C:\Users\yarpg\source\repos\WindowsFormsApp_Iva\WindowsFormsApp_Iva\obj\Debug\WindowsFormsApp_Iva.Form1.resources
+C:\Users\yarpg\source\repos\WindowsFormsApp_Iva\WindowsFormsApp_Iva\obj\Debug\WindowsFormsApp_Iva.Properties.Resources.resources
+C:\Users\yarpg\source\repos\WindowsFormsApp_Iva\WindowsFormsApp_Iva\obj\Debug\WindowsFormsApp_Iva.Students.resources
+C:\Users\yarpg\source\repos\WindowsFormsApp_Iva\WindowsFormsApp_Iva\obj\Debug\WindowsFormsApp_Iva.csproj.GenerateResource.cache
+C:\Users\yarpg\source\repos\WindowsFormsApp_Iva\WindowsFormsApp_Iva\obj\Debug\WindowsFormsApp_Iva.csproj.CoreCompileInputs.cache
+C:\Users\yarpg\source\repos\WindowsFormsApp_Iva\WindowsFormsApp_Iva\obj\Debug\WindowsFormsApp_Iva.exe
+C:\Users\yarpg\source\repos\WindowsFormsApp_Iva\WindowsFormsApp_Iva\obj\Debug\WindowsFormsApp_Iva.pdb
+C:\Users\yarpg\source\repos\WindowsFormsApp_Iva\WindowsFormsApp_Iva\obj\Debug\WindowsFormsApp_Iva.Subjects.resources
+C:\Users\yarpg\source\repos\WindowsFormsApp_Iva\WindowsFormsApp_Iva\obj\Debug\WindowsFormsApp_Iva.Uspev.resources
+C:\Users\yarpg\source\repos\WindowsFormsApp_Iva\WindowsFormsApp_Iva\obj\Debug\WindowsFormsApp_Iva.StudentsTable.resources
